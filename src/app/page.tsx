@@ -5,7 +5,7 @@ import Link from "next/link";
 import MyStory from "@/components/MyStory";
 import Skils from "@/components/Skils";
 import Experience from "@/components/Experience";
-import ProjectBanner from "@/components/ProjectBanner";
+// import ProjectBanner from "@/components/ProjectBanner";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {

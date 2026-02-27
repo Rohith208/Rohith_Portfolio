@@ -1,8 +1,6 @@
 import React from "react";
 import {
   BookOpen,
-  GraduationCap,
-  Briefcase,
   Rocket,
   Heart,
   Star,
